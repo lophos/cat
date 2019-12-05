@@ -1,0 +1,6 @@
+setup.py
+dockerApi/__init__.py
+dockerApi.egg-info/PKG-INFO
+dockerApi.egg-info/SOURCES.txt
+dockerApi.egg-info/dependency_links.txt
+dockerApi.egg-info/top_level.txt
